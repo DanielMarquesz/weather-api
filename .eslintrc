@@ -10,7 +10,6 @@
       "plugin:@typescript-eslint/recommended"
     ],
     "rules": {
-      "max-len": ["error", 120],
       "semi": [2, "always"],
       "comma-spacing": [2, {"before": false, "after": true}]
     }
